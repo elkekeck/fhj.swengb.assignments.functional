@@ -1,5 +1,4 @@
 package fhj.swengb.assignments.functional.ekeck
-//Amar Bajric
 /**
  * This is the first assignment for swengb 2015.
  *
